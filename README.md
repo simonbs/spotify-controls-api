@@ -2,6 +2,8 @@
 
 A dead simple API for controlling Spotify from other services.
 
+This tiny API is useful for integration into other services, e.g. [openHAB](http://github.com/openhab/openhab-distro) if you are into home automation. The API can easily be integrated into openHAB using either the [HTTP Binding](https://github.com/openhab/openhab/wiki/Http-Binding) or the [Exec binding](https://github.com/openhab/openhab/wiki/Exec-Binding).
+
 ## Features
 
 This simple API allows you to control Spotify running on an OS X machine using a simple API which you can communicate with using HTTP.
