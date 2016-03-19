@@ -1,0 +1,24 @@
+{
+  "name": "spotify-controls-api",
+  "version": "1.0.0",
+  "description": "Control Spotify using a REST API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spotify",
+    "controls",
+    "rest",
+    "api",
+    "openhab",
+    "home",
+    "automation"
+  ],
+  "author": "Simon B. Støvring",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "osascript": "^1.2.0"
+  }
+}
